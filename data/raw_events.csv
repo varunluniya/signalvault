@@ -1,0 +1,29 @@
+event_id,customer_id,lan,event_type,city,market,asset_type,amount,rate,fee,tenure_months,modified_emi_calculator,timestamp
+E001,C100,,offer_shown,Delhi,West Delhi,personal_loan,100000,18.0,2000,36,0,2026-09-01T10:00:00+00:00
+E002,C100,,offer_shown,Delhi,West Delhi,personal_loan,100000,18.0,2000,24,1,2026-09-01T10:04:00+00:00
+E003,C100,LAN-5001,offer_shown,Delhi,West Delhi,personal_loan,75000,16.0,500,24,0,2026-09-05T09:30:00+00:00
+E004,C100,LAN-5001,offer_accepted,Delhi,West Delhi,personal_loan,75000,16.0,500,24,0,2026-09-05T09:40:00+00:00
+E005,C100,LAN-5001,disbursed,Delhi,West Delhi,personal_loan,75000,16.0,500,24,0,2026-09-05T10:00:00+00:00
+E006,C101,,offer_shown,Mumbai,South Mumbai,home_loan,2500000,9.5,15000,240,0,2026-09-02T11:00:00+00:00
+E007,C101,LAN-5002,offer_accepted,Mumbai,South Mumbai,home_loan,2500000,9.5,15000,240,0,2026-09-02T11:20:00+00:00
+E008,C101,LAN-5002,disbursed,Mumbai,South Mumbai,home_loan,2500000,9.5,15000,240,0,2026-09-02T12:00:00+00:00
+E009,C101,LAN-5003,offer_shown,Mumbai,South Mumbai,personal_loan,50000,19.0,1000,12,0,2026-09-10T08:00:00+00:00
+E010,C101,LAN-5003,offer_accepted,Mumbai,South Mumbai,personal_loan,50000,19.0,1000,12,0,2026-09-10T08:10:00+00:00
+E011,C101,LAN-5003,disbursed,Mumbai,South Mumbai,personal_loan,50000,19.0,1000,12,0,2026-09-10T09:00:00+00:00
+E012,C102,,offer_shown,Delhi,West Delhi,personal_loan,120000,17.5,2500,36,1,2026-09-03T14:00:00+00:00
+E013,C102,LAN-5004,rejected,Delhi,West Delhi,personal_loan,120000,17.5,2500,36,0,2026-09-03T14:30:00+00:00
+E014,C103,,offer_shown,Bengaluru,Whitefield,personal_loan,90000,18.5,1800,24,0,2026-09-04T09:00:00+00:00
+E015,C103,LAN-5005,offer_accepted,Bengaluru,Whitefield,personal_loan,90000,18.5,1800,24,0,2026-09-04T09:45:00+00:00
+E016,C103,LAN-5005,cancelled,Bengaluru,Whitefield,personal_loan,90000,18.5,1800,24,0,2026-09-04T10:15:00+00:00
+E017,C104,,offer_shown,Bengaluru,Koramangala,two_wheeler_loan,80000,14.0,800,18,0,2026-09-06T13:00:00+00:00
+E018,C104,,offer_shown,Bengaluru,Koramangala,two_wheeler_loan,70000,13.0,600,12,1,2026-09-06T13:10:00+00:00
+E019,C104,LAN-5006,offer_accepted,Bengaluru,Koramangala,two_wheeler_loan,70000,13.0,600,12,0,2026-09-06T13:30:00+00:00
+E020,C104,LAN-5006,disbursed,Bengaluru,Koramangala,two_wheeler_loan,70000,13.0,600,12,0,2026-09-06T14:00:00+00:00
+E021,C105,,offer_shown,Delhi,East Delhi,personal_loan,60000,19.5,1200,12,0,2026-09-07T10:00:00+00:00
+E022,C105,LAN-5007,rejected,Delhi,East Delhi,personal_loan,60000,19.5,1200,12,0,2026-09-07T10:40:00+00:00
+E023,C106,,offer_shown,Mumbai,Andheri,home_loan,1800000,9.8,10000,180,0,2026-09-08T09:00:00+00:00
+E024,C106,LAN-5008,offer_accepted,Mumbai,Andheri,home_loan,1800000,9.8,10000,180,0,2026-09-08T09:30:00+00:00
+E025,C106,LAN-5008,disbursed,Mumbai,Andheri,home_loan,1800000,9.8,10000,180,0,2026-09-08T10:00:00+00:00
+E026,C106,LAN-5009,offer_shown,Mumbai,Andheri,personal_loan,40000,18.0,800,12,0,2026-09-15T09:00:00+00:00
+E027,C106,LAN-5009,offer_accepted,Mumbai,Andheri,personal_loan,40000,18.0,800,12,0,2026-09-15T09:20:00+00:00
+E028,C106,LAN-5009,disbursed,Mumbai,Andheri,personal_loan,40000,18.0,800,12,0,2026-09-15T10:00:00+00:00
